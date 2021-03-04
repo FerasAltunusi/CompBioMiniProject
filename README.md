@@ -8,7 +8,7 @@ git clone https://github.com/FerasAltunusi/CompBioMiniProject.git
 
 ### Then, download the following software:
 
-Pyhton 3
+Pyhton 3 -- https://www.python.org/downloads/
 
 BioPython -- https://biopython.org/wiki/Download
 
