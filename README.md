@@ -1,1 +1,1 @@
-# CompBioMiniProjectCompBio Mini Project
+# CompBioMiniProject
