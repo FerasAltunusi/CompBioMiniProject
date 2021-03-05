@@ -1,4 +1,8 @@
 # Computational Biology Mini Project
+
+## Background:
+### Human herpesvirus 5 is also known as Human cytomegalovirus and is typically abbreviated as HCMV. From Wikipedia: Although they may be found throughout the body, HCMV infections are frequently associated with the salivary glands. HCMV infection is typically unnoticed in healthy people, but can be life-threatening for the immunocompromised, such as HIV-infected persons, organ transplant recipients, or newborn infants. Congenital cytomegalovirus infection can lead to significant morbidity and even death. After infection, HCMV remains latent within the body throughout life and can be reactivated at any time. Eventually, it may cause mucoepidermoid carcinoma and possibly other malignancies such as prostate cancer
+
 ## Installation and Required Software 
 
 ### To run this project, clone this repository:
