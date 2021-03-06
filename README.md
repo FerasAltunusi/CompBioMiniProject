@@ -26,6 +26,10 @@ SPades -- http://cab.spbu.ru/software/spades/
 
 
 ### Usage:
-#### After cloning the repository, use this command to run using the test files:
+#### After cloning the repository, please use this command to run the program using the test files:
 
 python3 main.py -test
+
+#### To run the whole data, please use the following command:
+
+python3 main.py
