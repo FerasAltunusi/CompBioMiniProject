@@ -23,3 +23,9 @@ Kallisto -- https://pachterlab.github.io/kallisto/
 Bowtie2 -- http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml
 
 SPades -- http://cab.spbu.ru/software/spades/
+
+
+### Usage:
+#### After cloning the repository, use this command to run using the test files:
+
+python3 main.py -test
